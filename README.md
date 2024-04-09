@@ -33,7 +33,7 @@ We will be using Machine Learning with Python to ease their work and predict whe
    - Feature scaling
    - Encoding categorical variables
 
-3. **Exploratory Data Analysis (EDA)**
+3. **Data Analysis**
    - Descriptive statistics
    - Data visualization
    - Correlation analysis
