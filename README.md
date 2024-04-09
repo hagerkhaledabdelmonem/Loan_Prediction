@@ -27,7 +27,7 @@ We will be using Machine Learning with Python to ease their work and predict whe
 ## By following the Steps
 1. **Data Cleaning**
    - Handle missing values
-   - Remove duplicate entries
+   - Remove duplicate entries if there
 
 2. **Data Transformation**
    - Feature scaling
